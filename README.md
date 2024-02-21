@@ -12,7 +12,7 @@ Welcome to the Uprise Nexus team's repository for the IRCITE Hackathon 2024! Thi
 Our team, Uprise Nexus, is participating in the IRCITE Hackathon 2024 with a focus on _[to be updated]._
 
 ## Repository Contents
-_[to be updated].__
+_[to be updated]._
 
 ## Contact
 If you have any questions or feedback regarding our project, feel free to reach out to us:
